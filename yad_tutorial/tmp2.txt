@@ -1,0 +1,17 @@
+-rwxrwxr-x 1 mkm mkm  331 Oct 16 23:35 /home/mkm/Documents/zenity_yad_tutorial/yad_lib_mkm.sh
+-rwxrwxr-x 1 mkm mkm 7.7K Oct 17 00:39 /home/mkm/Documents/zenity_yad_tutorial/symbols_emoji_dev.sh
+-rwxrwxr-x 1 mkm mkm 1010 Oct 18 14:15 /home/mkm/Documents/zenity_yad_tutorial/test/zenity_menu1.sh
+-rwxrwxr-x 1 mkm mkm  906 Oct 18 14:26 /home/mkm/Documents/zenity_yad_tutorial/test/zenity_menu2.sh
+-rwxrwxr-x 1 mkm mkm  910 Oct 18 14:36 /home/mkm/Documents/zenity_yad_tutorial/test/zenity_menu3.sh
+-rwxrwxr-x 1 mkm mkm  340 Oct 18 14:43 /home/mkm/Documents/zenity_yad_tutorial/test/zenity_menu3.1.sh
+-rwxrwxr-x 1 mkm mkm 6.0K Oct 19 21:59 /home/mkm/Documents/zenity_yad_tutorial/symbols.sh
+-rwxrwxr-x 1 mkm mkm  396 Oct 19 22:20 /home/mkm/Documents/zenity_yad_tutorial/zenity_lib_mkm_tester.sh
+-rwxrwxr-x 1 mkm mkm 9.8K Oct 19 22:32 /home/mkm/Documents/zenity_yad_tutorial/zenity_lib_mkm.sh
+-rwxrwxr-x 1 mkm mkm 1.1K Oct 22 01:35 /home/mkm/Documents/yad_tutorial/find_utility_v1.0.sh
+-rwxrwxr-x 1 mkm mkm 1.4K Oct 22 02:07 /home/mkm/Documents/yad_tutorial/find_utility_v1.1.sh
+-rwxrwxr-x 1 mkm mkm 1.9K Oct 22 02:50 /home/mkm/Documents/yad_tutorial/find_utility_v1.2.sh
+-rwxrwxr-x 1 mkm mkm 2.2K Oct 22 03:26 /home/mkm/Documents/yad_tutorial/find_utility_v1.4.sh
+-rwxrwxr-x 1 mkm mkm  718 Oct 22 04:39 /home/mkm/Documents/yad_tutorial/progress_demo.sh
+-rwxrwxr-x 1 mkm mkm 2.6K Oct 22 05:55 /home/mkm/Documents/yad_tutorial/find_utility_v1.5.sh
+-rwxrwxr-x 1 mkm mkm 4.1K Oct 22 15:02 /home/mkm/Documents/yad_tutorial/user_session_manager.sh
+-rwxrwxr-x 1 mkm mkm 4.4K Oct 22 15:36 /home/mkm/Documents/yad_tutorial/find_utility_v1.7.sh

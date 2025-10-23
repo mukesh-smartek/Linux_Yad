@@ -1,0 +1,8 @@
+Steps To change theme into dark
+-------------------------------
+To apply dark theme system-wide:
+-------------------------------
+# ~/.config/gtk-3.0/settings.ini
+[Settings]
+gtk-application-prefer-dark-theme = true
+

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Yad Session Manager
+Comment=Launch session.sh script
+Exec=/home/mkm/Documents/yad_tutorial/user_session_manager.sh
+#Icon=utilities-terminal
+Icon=/home/mkm/Documents/yad_tutorial/icons/humming-bird_16.png
+Terminal=true
+Categories=Utility;
+
